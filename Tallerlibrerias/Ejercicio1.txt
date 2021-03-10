@@ -1,0 +1,4 @@
+Numero de elementos: 5
+|85||70||23||98||73|
+Mayor: 1875937312 se repite 1 veces
+Menor: 0 se repite 1 veces

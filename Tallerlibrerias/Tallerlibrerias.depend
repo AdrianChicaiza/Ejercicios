@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1615403746 source:c:\users\adrian\downloads\algoritmos\tallerlibrerias\main.cpp
+	<iostream>
+	<ctime>
+	<fstream>
+
